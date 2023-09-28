@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="spring-cloud-bindings-1.10.0-sources">
+    <CLASSES>
+      <root url="file://D:/360Downloads/spring-framework-5.3.20/libs" />
+      <root url="file://D:/360安全浏览器下载/apache.poi/poi_jar" />
+      <root url="file://D:/360安全浏览器下载/xmlbeans-2.3.0.jar" />
+      <root url="file://D:/360安全浏览器下载/javaxservlet_jb51/javax.servlet" />
+      <root url="jar://D:/360安全浏览器下载/json-lib-2.4-jdk15.jar!/" />
+      <root url="file://D:/360安全浏览器下载/plugin-2023.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/360Downloads/spring-framework-5.3.20/libs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/360Downloads/spring-framework-5.3.20/libs" recursive="false" />
+    <jarDirectory url="file://D:/360安全浏览器下载/apache.poi/poi_jar" recursive="false" />
+    <jarDirectory url="file://D:/360安全浏览器下载/javaxservlet_jb51/javax.servlet" recursive="false" />
+    <jarDirectory url="file://D:/360Downloads/spring-framework-5.3.20/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
